@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\ForUserRegistration\ForUserRegistration\bin\Debug\netcoreapp2.1\ForUserRegistration.deps.json
+C:\Users\USER\source\repos\ForUserRegistration\ForUserRegistration\bin\Debug\netcoreapp2.1\ForUserRegistration.runtimeconfig.json
+C:\Users\USER\source\repos\ForUserRegistration\ForUserRegistration\bin\Debug\netcoreapp2.1\ForUserRegistration.runtimeconfig.dev.json
+C:\Users\USER\source\repos\ForUserRegistration\ForUserRegistration\bin\Debug\netcoreapp2.1\ForUserRegistration.dll
+C:\Users\USER\source\repos\ForUserRegistration\ForUserRegistration\bin\Debug\netcoreapp2.1\ForUserRegistration.pdb
+C:\Users\USER\source\repos\ForUserRegistration\ForUserRegistration\obj\Debug\netcoreapp2.1\ForUserRegistration.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\ForUserRegistration\ForUserRegistration\obj\Debug\netcoreapp2.1\ForUserRegistration.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ForUserRegistration\ForUserRegistration\obj\Debug\netcoreapp2.1\ForUserRegistration.RazorAssemblyInfo.cache
+C:\Users\USER\source\repos\ForUserRegistration\ForUserRegistration\obj\Debug\netcoreapp2.1\ForUserRegistration.RazorAssemblyInfo.cs
+C:\Users\USER\source\repos\ForUserRegistration\ForUserRegistration\obj\Debug\netcoreapp2.1\ForUserRegistration.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\ForUserRegistration\ForUserRegistration\obj\Debug\netcoreapp2.1\ForUserRegistration.AssemblyInfo.cs
+C:\Users\USER\source\repos\ForUserRegistration\ForUserRegistration\obj\Debug\netcoreapp2.1\ForUserRegistration.RazorTargetAssemblyInfo.cache
+C:\Users\USER\source\repos\ForUserRegistration\ForUserRegistration\obj\Debug\netcoreapp2.1\ForUserRegistration.dll
+C:\Users\USER\source\repos\ForUserRegistration\ForUserRegistration\obj\Debug\netcoreapp2.1\ForUserRegistration.pdb
